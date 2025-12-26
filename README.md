@@ -8,7 +8,7 @@ A clean, modern, and responsive personal portfolio website built with pure **HTM
 A clean, modern, and responsive personal portfolio website built with pure **HTML, CSS, and JavaScript**. Features smooth animations, scroll effects, and a professional light theme.
 
 ### Live Demo
-[View Live Site](https://prashant-tiwari-sys.github.io/[your-repo-name]/)  
+[View Live Site](https://prashant-tiwari-sys.github.io/[portfolio]/)  
 
 ### Features
 - Fully responsive design (desktop, tablet, mobile)
