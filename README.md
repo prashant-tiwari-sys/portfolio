@@ -3,6 +3,7 @@
 A clean, modern, and responsive personal portfolio website built with pure **HTML, CSS, and JavaScript**. Features smooth animations, scroll effects, and a professional light theme.
 
 ### Live Demo
+https://prashant-tiwari-sys.github.io/portfolio
 # Prashant Tiwari - Personal Portfolio
 
 A clean, modern, and responsive personal portfolio website built with pure **HTML, CSS, and JavaScript**. Features smooth animations, scroll effects, and a professional light theme.
